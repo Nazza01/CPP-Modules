@@ -1,0 +1,189 @@
+make --dry-run --always-make --keep-going --print-directory
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+
+make: Entering directory `/Users/nathanael/VSCodeWorkspace/42Git/CPPModules/CPP_04/ex00'
+echo "`expr " [\`expr 1 '*' 100 / 8\`" : '.*\(....\)$'`%]" "    Linking     	sources/Animal.cpp to build/Animal.o "
+mkdir -p build
+c++ --std=c++98 -Wall -Wextra -Werror -g -I ./includes -MMD -MP -c sources/Animal.cpp -o build/Animal.o
+echo "`expr " [\`expr 2 '*' 100 / 8\`" : '.*\(....\)$'`%]" "    Linking     	sources/Cat.cpp to build/Cat.o "
+mkdir -p build
+c++ --std=c++98 -Wall -Wextra -Werror -g -I ./includes -MMD -MP -c sources/Cat.cpp -o build/Cat.o
+echo "`expr " [\`expr 3 '*' 100 / 8\`" : '.*\(....\)$'`%]" "    Linking     	sources/WrongCat.cpp to build/WrongCat.o "
+mkdir -p build
+c++ --std=c++98 -Wall -Wextra -Werror -g -I ./includes -MMD -MP -c sources/WrongCat.cpp -o build/WrongCat.o
+ 
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+echo "`expr " [\`expr 4 '*' 100 / 8\`" : '.*\(....\)$'`%]" "    Linking     	sources/WrongAnimal.cpp to build/WrongAnimal.o "
+mkdir -p build
+c++ --std=c++98 -Wall -Wextra -Werror -g -I ./includes -MMD -MP -c sources/WrongAnimal.cpp -o build/WrongAnimal.o
+ 
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+
+echo "`expr " [\`expr 5 '*' 100 / 8\`" : '.*\(....\)$'`%]" "    Linking     	sources/Dog.cpp to build/Dog.o "
+mkdir -p build
+c++ --std=c++98 -Wall -Wextra -Werror -g -I ./includes -MMD -MP -c sources/Dog.cpp -o build/Dog.o
+ 
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+echo "`expr " [\`expr 6 '*' 100 / 8\`" : '.*\(....\)$'`%]" "    Linking     	sources/main.cpp to build/main.o "
+mkdir -p build
+c++ --std=c++98 -Wall -Wextra -Werror -g -I ./includes -MMD -MP -c sources/main.cpp -o build/main.o
+ 
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+echo "`expr " [\`expr 7 '*' 100 / 8\`" : '.*\(....\)$'`%]" "    Building    	AniMorph"
+mkdir -p ./build
+c++ ./build/Animal.o ./build/Cat.o ./build/WrongCat.o ./build/WrongAnimal.o ./build/Dog.o ./build/main.o  -o AniMorph
+ 
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+tput: No value for $TERM and no -T specified
+
+echo "`expr " [\`expr 8 '*' 100 / 8\`" : '.*\(....\)$'`%]" "  Ready to Run  	AniMorph"
+make: Leaving directory `/Users/nathanael/VSCodeWorkspace/42Git/CPPModules/CPP_04/ex00'
+ 
