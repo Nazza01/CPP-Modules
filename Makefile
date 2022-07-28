@@ -42,7 +42,7 @@ github:
 # Commits to git located at 42 vogsphere
 #	Substitute 42-vog for your 42 intra project link
 submit:
-	git remote set-url origin git@vogsphere.42adel.org.au:vogsphere/intra-uuid-5bb65fa5-adc9-4c50-955c-1a43352437e8-4278833-nervin
+	git remote set-url origin 42-vog
 	git add .
 	echo "Please type a commit message"
 	read COMMIT; \
